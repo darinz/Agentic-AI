@@ -48,4 +48,7 @@ This repository curates and shares:
 
 - **Stay ahead:** Track the latest trends in agentic and multi-agent AI
 - **Learn by doing:** Access practical examples and starter projects
-- **Connect:** Join a community passionate about the future of autonomous AI 
+- **Connect:** Join a community passionate about the future of autonomous AI
+
+## Papers
+- **AI Agents vs. Agentic AI** [paper](https://arxiv.org/abs/2505.10468)
