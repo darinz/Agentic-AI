@@ -1,6 +1,6 @@
 # Agentic AI Systems
 
-Welcome to **Agentic AI Systems** – your collaborative hub for exploring, building, and sharing knowledge about agentic AI, autonomous agents, and multi-agent systems.
+Welcome to **Agentic AI Systems** – a collaborative hub for exploring, building, and sharing knowledge about agentic AI, autonomous agents, and multi-agent systems.
 
 ## Project Structure
 
