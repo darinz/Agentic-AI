@@ -41,19 +41,7 @@ Welcome to the **Reference & Learning Materials** section for Agentic AI Systems
 - **Learning Agents**: Adapt behavior through experience
 - **Social Agents**: Interact and collaborate with other agents
 
-## Key Research Papers
-
-### Foundational Papers
-
-1. **"AI Agents vs. Agentic AI"** (2025)
-   - **Authors**: Various researchers
-   - **Link**: [arXiv:2505.10468](https://arxiv.org/abs/2505.10468)
-   - **Key Insight**: Distinguishes between AI agents (task-specific) and agentic AI (general-purpose autonomous systems)
-
-2. **"More Robust Multi-Agent Systems"** (2025)
-   - **Authors**: Mert Cemri et al. (UC Berkeley, Intesa Sanpaolo)
-   - **Link**: [arXiv:2503.13657](https://arxiv.org/abs/2503.13657)
-   - **Key Insight**: Addresses failure modes in multi-agent systems through improved specifications, inter-agent alignment, and task verification
+## Resources
 
 ### Recommended Reading
 
