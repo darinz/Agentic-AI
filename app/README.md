@@ -59,7 +59,7 @@ Each application includes:
 - **Examples:** Sample usage and configuration
 - **Tutorials:** Step-by-step guides for understanding and extending the code
 
-## 🔧 Development Guidelines
+## Development Guidelines
 
 ### Code Standards
 - Follow PEP 8 for Python code
