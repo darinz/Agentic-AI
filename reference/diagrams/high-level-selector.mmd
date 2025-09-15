@@ -1,0 +1,8 @@
+flowchart TD
+    A[Start] --> B{Are inputs predictable and outputs enumerable?}
+    B -- Yes --> C[Traditional code]
+    B -- No --> D{Can logic be expressed as finite branches with approvals/retries?}
+    D -- Yes --> E[Deterministic workflow]
+    D -- No --> F{Is the task primarily Q&A over documents?}
+    F -- Yes --> G[RAG / Chatbot]
+    F -- No --> H[Autonomous agent]
