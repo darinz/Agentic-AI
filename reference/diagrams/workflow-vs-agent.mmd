@@ -1,0 +1,8 @@
+flowchart TD
+    W{Enumerate all decision branches today?}
+    W -- Yes --> WF[Use workflow + human gates]
+    W -- No --> X{Need multi-step planning, tool use, and adaptation?}
+    X -- No --> R[Prefer RAG or refine requirements]
+    X -- Yes --> Y{Strict latency/compliance constraints?}
+    Y -- Yes --> M[Split: workflow on critical path, agent off-path]
+    Y -- No --> AG[Autonomous agent]
